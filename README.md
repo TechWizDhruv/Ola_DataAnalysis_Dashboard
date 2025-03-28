@@ -1,4 +1,6 @@
 # Ola_DataAnalysis_Dashboard
+**Explore the Dashboard Here:** [https://app.powerbi.com/groups/me/reports/01baeb49-a1b6-4842-b365-2c584f4ff3d5/9c9e709ca9112c91c9a8?experience=power-bi]
+
 Managing ride bookings, cancellations, revenue, and customer satisfaction is a complex challenge for ride-hailing companies like OLA. To drive data-driven decisions, I built a Power BI dashboard that uncovers key insights into ride volume, revenue trends, vehicle performance, and customer ratings.
 
 ## Project Objective
